@@ -1,0 +1,10 @@
+package Q6;
+
+public class SelectionSort {
+
+	public void sort(int[] nums) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}
